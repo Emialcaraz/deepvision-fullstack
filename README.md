@@ -90,7 +90,7 @@ After installation of Docker-compose now we can download the project
 
 ``` cd deepvision-fullstack ```
 
-Now we can install Docker-Compose
+Now we can build and start our project
 
 - ``` sudo docker-compose build ``` 
 
