@@ -19,6 +19,9 @@ That way, you get the best of concurrency and parallelism.
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+.
 
+### ElasticSearch
+We use the Official low-level client for Elasticsearch. Its goal is to provide common ground for all Elasticsearch-related code in Python.
+
 ### Interactive API docs
 
 Now you can go to <a href="http://0.0.0.0/docs" target="_blank">http://0.0.0.0/docs</a> or <a href="http://127.0.0.1/docs" target="_blank">http://127.0.0.1/docs</a> (or equivalent, using your Docker host).
