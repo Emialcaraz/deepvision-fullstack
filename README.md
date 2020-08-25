@@ -78,6 +78,20 @@ You will see Node-RED in <a href="http://127.0.0.1:1880" target="_blank"> localh
 
 # Getting Started
 
+Requirements: 
+
+- Docker-compose https://docs.docker.com/compose/install/
+
+After installation of Docker-compose now we can download the project
+
+- First download the repository:
+
+``` git clone https://github.com/Emialcaraz/deepvision-fullstack.git```
+
+``` cd deepvision-fullstack ```
+
+Now we can install Docker-Compose
+
 - ``` sudo docker-compose build ``` 
 
 - This is for elasticsearch-py ``` sudo sysctl -w vm.max_map_count=262144 ```
