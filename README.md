@@ -24,7 +24,7 @@ We use the Official low-level client for Elasticsearch. Its goal is to provide c
 
 ### Interactive API docs
 
-Now you can go to <a href="http://0.0.0.0/docs" target="_blank">http://0.0.0.0/docs</a> or <a href="http://127.0.0.1/docs" target="_blank">http://127.0.0.1/docs</a> (or equivalent, using your Docker host).
+Now you can go to <a href="http://0.0.0.0:5000/docs" target="_blank">http://0.0.0.0:5000/docs</a> or <a href="http://127.0.0.1:5000/docs" target="_blank">http://127.0.0.1:5000/docs</a> (or equivalent, using your Docker host).
 
 You will see the automatic interactive API documentation (provided by <a href="https://github.com/swagger-api/swagger-ui" target="_blank">Swagger UI</a>):
 
