@@ -30,14 +30,6 @@ You will see the automatic interactive API documentation (provided by <a href="h
 
 ![Swagger UI](https://fastapi.tiangolo.com/img/index/index-01-swagger-ui-simple.png)
 
-### Alternative API docs
-
-And you can also go to <a href="http://0.0.0.0/redoc" target="_blank">http://0.0.0.0/redoc</a> or <a href="http://127.0.0.1/redoc" target="_blank">http://127.0.0.1/redoc</a>(or equivalent, using your Docker host).
-
-You will see the alternative automatic documentation (provided by <a href="https://github.com/Rebilly/ReDoc" target="_blank">ReDoc</a>):
-
-![ReDoc](https://fastapi.tiangolo.com/img/index/index-02-redoc-simple.png)
-
 ## Dependencies and packages
 
 All dependencies are in requirements.txt
